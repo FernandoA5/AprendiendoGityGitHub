@@ -36,3 +36,6 @@ Git Fetch no copia el repositorio en mis archivos para fusionarlo, necesito hace
 git merge » fusiona el código.
 git pull » Copio el repositorio local y el remoto actualizado para fusionarlos.
 
+git commit -am "mensaje" » Agrega los cambios (como un add) y además realiza el commit con un mensaje.
+
+

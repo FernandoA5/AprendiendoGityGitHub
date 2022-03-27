@@ -29,6 +29,8 @@ git checkout idCommit archivo » Restaura un archivo a la versión del commit se
 
 git checkout master commit » Restaura un archivo a la versión de la linea actual de master.
 
+Agregué esta linea desde GitHub
+
 Para obtener un repositorio remoto » git clone url
 Para enviar mis cambios a un repositorio remoto » git push
 Para obtener una actualización del repositorio remoto » git fetch

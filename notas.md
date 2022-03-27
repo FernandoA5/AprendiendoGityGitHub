@@ -37,3 +37,6 @@ git merge » fusiona el código.
 git pull » Copio el repositorio local y el remoto actualizado para fusionarlos.
 
 git commit -am "mensaje" » Agrega los cambios (como un add) y además realiza el commit con un mensaje. Esto solo funciona con archivos que ya habían sido agregados antes. Un archivo untracked no se agregaría.
+
+//CREAR RAMAS
+git branch NOMBRE DE LA RAMA

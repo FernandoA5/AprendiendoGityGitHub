@@ -4,4 +4,5 @@ Este repositorio no contiene nada en particular, solo es usado para probar coman
 - Los comandos de Git.
 - Y las buenas prácticas de la industria.
 - Incluye ejemplos en distintos SO
+- Disponible para todos
 Este repositorio fue creado por el Relámpago azúl de FIME
